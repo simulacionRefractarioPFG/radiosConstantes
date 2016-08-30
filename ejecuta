@@ -1,0 +1,6 @@
+#!/bin/bash
+
+mpirun -np * liggghts < in1.MgO_proporcion_Rmgo_radioMgO_Ral2o3_radioAl2O3
+mpirun -np * liggghts < in2.MgO_proporcion_Rmgo_radioMgO_Ral2o3_radioAl2O3
+mpirun -np * liggghts < in3.MgO_proporcion_Rmgo_radioMgO_Ral2o3_radioAl2O3
+mpirun -np * liggghts < in4.MgO_proporcion_Rmgo_radioMgO_Ral2o3_radioAl2O3
